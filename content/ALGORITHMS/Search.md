@@ -1,7 +1,6 @@
 ---
 title: "P5 SEARCH ALGORITHM"
 date: 2019-11-05T11:06:55+01:00
-draft: true
 ---
 
 <h2>Hvordan virker det hele så?</h2>

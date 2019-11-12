@@ -1,7 +1,6 @@
 ---
 title: "P5 SORTING ALGORITHM"
 date: 2019-11-05T11:06:55+01:00
-draft: true
 ---
 
 ```mermaid
