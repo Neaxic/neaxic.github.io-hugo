@@ -1,7 +1,6 @@
 ---
 title: "Avavavav"
 date: 6969-9-05T10:21:04+01:00
-draft: true
 ---
 
 Min største frygt er at se kasper i min fritid
