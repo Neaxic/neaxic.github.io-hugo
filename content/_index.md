@@ -6,5 +6,5 @@ chapter: true
 
 ### Chapter 1
 
-# ALGORITHMS
-ass & titties
+# INTRODUCTION
+"ass & titties" (1857) written and directed by Andreas Østergaard
